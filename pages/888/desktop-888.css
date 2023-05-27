@@ -1,0 +1,1373 @@
+.desktop-888-child {
+  position: absolute;
+  top: 9242px;
+  left: 102px;
+  background-color: var(--color-gainsboro);
+  width: 1212px;
+  height: 785px;
+  display: none;
+}
+.dropdown-menu{
+  border-radius: var(--br-sm);
+  background-color: var(--color-steelblue-300);
+ 
+}
+.abonnement3,
+  .accueil3,
+  .facture5,.branchements1,
+  .compteur3,
+  .lnergie1,
+  .paiement1,
+  .service3 {
+    display: inline-block;
+    font-size: var(--font-size-3xl);
+    padding-left: 50px;
+    font-family: var(--font-inika);
+    color: #000;
+  }
+.desktop-888-child1,
+.desktop-888-child2,
+.desktop-888-inner,
+.desktop-888-item {
+  position: absolute;
+  top: 3003px;
+  left: 102px;
+  background-color: var(--color-crimson-100);
+  width: 498px;
+  height: 75px;
+}
+.desktop-888-child1,
+.desktop-888-child2,
+.desktop-888-inner {
+  top: 4921px;
+  width: 1091px;
+}
+.desktop-888-child1,
+.desktop-888-child2 {
+  top: 5413px;
+  width: 923px;
+}
+.desktop-888-child2 {
+  top: 5800px;
+  width: 508px;
+}
+.desktop-888-child3,
+.desktop-888-child4,
+.desktop-888-child5,
+.desktop-888-child6 {
+  position: absolute;
+  top: 7158px;
+  left: 102px;
+  background-color: var(--color-crimson-100);
+  width: 1084px;
+  height: 126px;
+}
+.desktop-888-child4,
+.desktop-888-child5,
+.desktop-888-child6 {
+  top: 8757px;
+  width: 932px;
+}
+.desktop-888-child5,
+.desktop-888-child6 {
+  top: 9395px;
+  width: 1154px;
+}
+.desktop-888-child6 {
+  top: 10863px;
+  width: 1118px;
+}
+.desktop-888-child7,
+.desktop-888-child8,
+.desktop-888-child9 {
+  position: absolute;
+  top: 8923px;
+  left: 102px;
+  background-color: var(--color-powderblue-100);
+  width: 1286px;
+  height: 432px;
+}
+.desktop-888-child8,
+.desktop-888-child9 {
+  top: 9561px;
+  height: 472px;
+}
+.desktop-888-child9 {
+  top: 11029px;
+  height: 519px;
+}
+.desktop-888-child10,
+.desktop-888-child11,
+.desktop-888-child12,
+.desktop-888-child13,
+.desktop-888-child14 {
+  position: absolute;
+  top: 3118px;
+  left: 102px;
+  background-color: var(--color-powderblue-100);
+  width: 1236px;
+  height: 447px;
+}
+.desktop-888-child11,
+.desktop-888-child12,
+.desktop-888-child13,
+.desktop-888-child14 {
+  top: 5036px;
+  height: 337px;
+}
+.desktop-888-child12,
+.desktop-888-child13,
+.desktop-888-child14 {
+  top: 5528px;
+  height: 232px;
+}
+.desktop-888-child13,
+.desktop-888-child14 {
+  top: 5915px;
+  height: 414px;
+}
+.desktop-888-child14 {
+  top: 7324px;
+  height: 602px;
+}
+.c122-1-icon {
+  position: absolute;
+  top: 2241px;
+  left: 0;
+  width: 1541px;
+  height: 694px;
+  object-fit: cover;
+}
+.desktop-888-child15 {
+  position: absolute;
+  top: 1160px;
+  left: -52px;
+  background-color: var(--color-powderblue);
+  width: 1792px;
+  height: 1081px;
+}
+.desktop-888-child16,
+.desktop-888-child17 {
+  position: absolute;
+  top: 2588.5px;
+  left: 1433.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 18px;
+  height: 1px;
+}
+.desktop-888-child17 {
+  left: 1437.5px;
+  width: 14px;
+}
+.desktop-888-child18 {
+  position: absolute;
+  top: 2578.5px;
+  left: 1438.5px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 24px;
+}
+.c3333-1-icon,
+.c3333-2-icon {
+  position: absolute;
+  top: 3146px;
+  left: 102px;
+  width: 56px;
+  height: 43.71px;
+  object-fit: cover;
+}
+.c3333-2-icon {
+  top: 3324px;
+}
+.si-vous-habitez {
+  margin: 0;
+}
+.si-vous-habitez-container {
+  position: absolute;
+  top: 3149px;
+  left: 177px;
+}
+.tous-les-quatre-container {
+  position: absolute;
+  top: 3059px;
+  left: 21px;
+  white-space: pre-wrap;
+}
+.si-vous-habitez-container1 {
+  position: absolute;
+  top: 3327px;
+  left: 177px;
+}
+.tous-les-six-container {
+  position: absolute;
+  top: 3247px;
+  left: 21px;
+  white-space: pre-wrap;
+}
+.hhh-26-icon,
+.la-date-de-container {
+  position: absolute;
+  top: 3507px;
+  left: 100px;
+}
+.hhh-26-icon {
+  top: 2721px;
+  left: 0;
+  width: 973px;
+  height: 166px;
+  object-fit: cover;
+}
+.relev-des-index-container {
+  position: absolute;
+  top: 2512px;
+  left: 96px;
+  font-size: var(--font-size-55xl);
+  color: var(--color-white);
+  white-space: pre-wrap;
+}
+.quand-et-comment {
+  position: absolute;
+  top: 3009px;
+  left: 120px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+}
+.c3333-1-icon1,
+.c3333-2-icon1,
+.c3333-3-icon,
+.c3333-4-icon {
+  position: absolute;
+  top: 5064px;
+  left: 102px;
+  width: 56px;
+  height: 43.71px;
+  object-fit: cover;
+}
+.c3333-2-icon1,
+.c3333-3-icon,
+.c3333-4-icon {
+  top: 5557px;
+}
+.c3333-2-icon1,
+.c3333-4-icon {
+  top: 5943px;
+}
+.c3333-2-icon1 {
+  top: 5203px;
+}
+.si-vous-tes,
+.une-facture-sur-container {
+  position: absolute;
+  top: 5066px;
+  left: 176px;
+  display: inline-block;
+  width: 1047px;
+}
+.si-vous-tes {
+  top: 5945px;
+  left: 177px;
+}
+.elle-est-calcule-container,
+.une-facture-estime-container {
+  position: absolute;
+  top: 5561px;
+  left: 176px;
+  display: inline-block;
+  width: 1047px;
+}
+.elle-est-calcule-container {
+  top: 5137px;
+  left: 100px;
+  width: 1178px;
+}
+.trois-factures-sur-container {
+  position: absolute;
+  top: 5866px;
+  left: 21px;
+  white-space: pre-wrap;
+}
+.c3333-5-icon,
+.trois-factures-intermdiaires-container {
+  position: absolute;
+  top: 6075px;
+  left: 101px;
+}
+.c3333-5-icon {
+  top: 6139px;
+  left: 102px;
+  width: 56px;
+  height: 43.71px;
+  object-fit: cover;
+}
+.si-vous-tes1 {
+  position: absolute;
+  top: 6134px;
+  left: 177px;
+  display: inline-block;
+  width: 1047px;
+}
+.deux-factures-relles-container {
+  position: absolute;
+  top: 6212px;
+  left: 100px;
+}
+.quatre-factures-intermdiaires-container {
+  position: absolute;
+  top: 6271px;
+  left: 101px;
+}
+.comporte-un-montant-container {
+  position: absolute;
+  top: 5625px;
+  left: 101px;
+  display: inline-block;
+  width: 1236px;
+}
+.une-facture-intermdiaire-container {
+  position: absolute;
+  top: 506px;
+  left: 176px;
+  white-space: pre-wrap;
+}
+.elle-comporte-un {
+  position: absolute;
+  top: 5276px;
+  left: 100px;
+  display: inline-block;
+  width: 1238px;
+}
+.a-dfaut-de,
+.chaque-deux-mois,
+.vous-recevez-par {
+  position: absolute;
+  top: 4926px;
+  left: 119px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+}
+.a-dfaut-de,
+.vous-recevez-par {
+  top: 5419px;
+  left: 121px;
+}
+.vous-recevez-par {
+  top: 5805px;
+}
+.c3333-2-icon2 {
+  position: absolute;
+  top: 7773px;
+  left: 102px;
+  width: 56px;
+  height: 43.71px;
+  object-fit: cover;
+}
+.vous-recevez-dans-container {
+  position: absolute;
+  top: 7186px;
+  left: 21px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 1157px;
+}
+.laccueil-tlphonique-container {
+  top: 7494px;
+  left: 175px;
+}
+.laccueil-tlphonique-container,
+.le-centre-national-container,
+.le-site-web-container {
+  position: absolute;
+  display: inline-block;
+  width: 1157px;
+  height: 217px;
+}
+.le-centre-national-container {
+  top: 7445px;
+  left: 95px;
+  white-space: pre-wrap;
+}
+.le-site-web-container {
+  top: 7676px;
+  left: 176px;
+}
+.c3333-3-icon1,
+.votre-espace-container {
+  position: absolute;
+  top: 7775px;
+  left: 178px;
+}
+.c3333-3-icon1 {
+  top: 7854px;
+  left: 102px;
+  width: 56px;
+  height: 43.71px;
+  object-fit: cover;
+}
+.la-rubrique {
+  position: absolute;
+  top: 7856px;
+  left: 176px;
+}
+.mu-1-icon,
+.ss-1-icon,
+.tel-1-icon {
+  position: absolute;
+  top: 7490px;
+  left: 101px;
+  width: 57px;
+  height: 54px;
+  object-fit: cover;
+}
+.mu-1-icon,
+.ss-1-icon {
+  top: 7580px;
+}
+.ss-1-icon {
+  top: 7671px;
+}
+.desktop-888-child19,
+.desktop-888-child20 {
+  position: absolute;
+  top: 7665px;
+  border-radius: var(--br-8xl);
+  width: 275px;
+  height: 64px;
+}
+.desktop-888-child19 {
+  left: 837px;
+  background-color: var(--color-dodgerblue);
+}
+.desktop-888-child20 {
+  left: 1042px;
+  border: 4px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+}
+.div7,
+.n-de-service {
+  position: absolute;
+  top: 7678px;
+  left: 848px;
+}
+.div7 {
+  top: 7677px;
+  left: 1127px;
+}
+.desktop-888-child21,
+.desktop-888-child22 {
+  position: absolute;
+  top: 11389px;
+  border-radius: var(--br-8xl);
+  width: 275px;
+  height: 64px;
+}
+.desktop-888-child21 {
+  left: 837px;
+  background-color: var(--color-dodgerblue);
+}
+.desktop-888-child22 {
+  left: 1042px;
+  border: 4px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+}
+.div8,
+.n-de-service1 {
+  position: absolute;
+  top: 11401px;
+  left: 848px;
+}
+.div8 {
+  left: 1127px;
+}
+.hhh-24-icon,
+.icon {
+  position: absolute;
+  top: 6397px;
+  left: 0;
+  width: 1746px;
+  height: 693px;
+  object-fit: cover;
+}
+.hhh-24-icon {
+  top: 6875px;
+  width: 973px;
+  height: 167px;
+}
+.duplicata-de-facture,
+.vous-avez-gar-container {
+  position: absolute;
+  top: 6909px;
+  left: 97px;
+  font-size: var(--font-size-55xl);
+  color: var(--color-white);
+}
+.vous-avez-gar-container {
+  top: 7149px;
+  left: 121px;
+  font-size: var(--font-size-31xl);
+}
+.veuillez-prsenter-votre-container {
+  position: absolute;
+  top: 8946px;
+  left: 102px;
+}
+.le-district-vous-container {
+  position: absolute;
+  top: 9160px;
+  left: 101px;
+}
+.au-district-ou-container,
+.c5555-1-icon {
+  position: absolute;
+  top: 9001px;
+  left: 177px;
+}
+.c5555-1-icon {
+  top: 7995px;
+  left: 0;
+  width: 1625px;
+  height: 694px;
+  object-fit: cover;
+}
+.nbb-1-icon,
+.nbb-2-icon,
+.nvvv-1-icon,
+.nvvv-2-icon {
+  position: absolute;
+  top: 8997px;
+  left: 100px;
+  width: 59px;
+  height: 56px;
+  object-fit: cover;
+}
+.nbb-2-icon,
+.nvvv-1-icon,
+.nvvv-2-icon {
+  top: 9090px;
+}
+.nbb-2-icon,
+.nvvv-2-icon {
+  top: 9655px;
+  left: 101px;
+  height: 57px;
+}
+.nvvv-2-icon {
+  top: 9757px;
+  left: 100px;
+  width: 60px;
+}
+.par-voie-postale-container {
+  position: absolute;
+  top: 9098px;
+  left: 175px;
+}
+.noubliez-pas-de-container,
+.veuillez-prsenter-votre1 {
+  position: absolute;
+  top: 9258px;
+  left: 102px;
+}
+.veuillez-prsenter-votre1 {
+  top: 9584px;
+}
+.le-district-vous-container1 {
+  position: absolute;
+  top: 9661px;
+  left: 31px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 1263px;
+}
+.au-district-ou-container1 {
+  position: absolute;
+  top: 9658px;
+  left: 177px;
+}
+.par-voie-postale-container1 {
+  position: absolute;
+  top: 9764px;
+  left: 175px;
+}
+.hhh-23-icon,
+.noubliez-pas-de-container1 {
+  position: absolute;
+  top: 9936px;
+  left: 101px;
+}
+.hhh-23-icon {
+  top: 8474px;
+  left: 0;
+  width: 1169px;
+  height: 167px;
+  object-fit: cover;
+}
+.vos-historiques {
+  position: absolute;
+  top: 8510px;
+  left: 101px;
+  font-size: var(--font-size-55xl);
+  color: var(--color-white);
+}
+.vous-voulez-avoir-container {
+  top: 8609px;
+  white-space: pre-wrap;
+}
+.vous-constatez-que-container,
+.vous-voulez-avoir-container,
+.vous-voulez-savoir-container {
+  position: absolute;
+  left: 121px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+}
+.vous-voulez-savoir-container {
+  top: 9400px;
+  white-space: pre-wrap;
+}
+.vous-constatez-que-container {
+  top: 10864px;
+}
+.nbb-6-icon,
+.nvvv-6-icon {
+  position: absolute;
+  top: 11058px;
+  left: 101px;
+  width: 57px;
+  height: 55px;
+  object-fit: cover;
+}
+.nvvv-6-icon {
+  top: 11162px;
+  left: 100px;
+  width: 59px;
+  height: 56px;
+}
+.par-tlphone,
+.par-voie-postale-container2 {
+  position: absolute;
+  top: 11168px;
+  left: 175px;
+}
+.par-tlphone {
+  top: 11245px;
+}
+.au-district-ou-container2 {
+  position: absolute;
+  top: 11063px;
+  left: 177px;
+}
+.le-centre-national-container1 {
+  position: absolute;
+  top: 11180px;
+  left: 107px;
+  white-space: pre-wrap;
+}
+.le-site-web-container1 {
+  position: absolute;
+  top: 11401px;
+  left: 175px;
+}
+.c3333-14-icon2,
+.mu-5-icon,
+.ss-5-icon,
+.tel-5-icon {
+  position: absolute;
+  top: 11239px;
+  left: 100px;
+  width: 58px;
+  height: 55px;
+  object-fit: cover;
+}
+.c3333-14-icon2,
+.mu-5-icon,
+.ss-5-icon {
+  top: 11316px;
+}
+.c3333-14-icon2,
+.ss-5-icon {
+  top: 11393px;
+  width: 59px;
+  height: 56px;
+}
+.c3333-14-icon2 {
+  top: 11485px;
+  left: 101px;
+  width: 56px;
+  height: 43.71px;
+}
+.la-rubrique-demande {
+  position: absolute;
+  top: 11484px;
+  left: 161px;
+  display: inline-block;
+  width: 1047px;
+}
+.div9,
+.votre-facture {
+  position: absolute;
+  color: var(--color-crimson-200);
+}
+.div9 {
+  top: 1227px;
+  left: 101px;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-inika);
+  display: inline-block;
+  width: 216px;
+}
+.votre-facture {
+  top: 1230px;
+  left: 383px;
+  font-size: var(--font-size-29xl);
+}
+.h2-1-icon,
+.mask-group-icon8 {
+  position: absolute;
+  top: 1228px;
+  left: 296px;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.mask-group-icon8 {
+  top: 1343px;
+  left: 102px;
+  width: 373px;
+  height: 345px;
+  cursor: pointer;
+}
+.c2222-1-icon,
+.hhh-27-icon {
+  position: absolute;
+  top: 4159px;
+  left: 0;
+  width: 1604px;
+  height: 694px;
+  object-fit: cover;
+}
+.hhh-27-icon {
+  top: 4639px;
+  width: 973px;
+  height: 166px;
+}
+.systme-de-facturation {
+  position: absolute;
+  top: 4676px;
+  left: 101px;
+  font-size: var(--font-size-55xl);
+  color: var(--color-white);
+}
+.mask-group-icon9 {
+  position: absolute;
+  top: 1747px;
+  left: 824px;
+  width: 373px;
+  height: 328px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.hhh-22-icon,
+.kbb-1-icon {
+  position: absolute;
+  top: 10101px;
+  left: 0;
+  width: 1472px;
+  height: 694px;
+  object-fit: cover;
+}
+.hhh-22-icon {
+  top: 10580px;
+  width: 1290px;
+  height: 167px;
+}
+.rectification-du-nom {
+  position: absolute;
+  top: 10556px;
+  left: 96px;
+  font-size: var(--font-size-55xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 1076px;
+}
+.mask-group-icon10,
+.mask-group-icon11,
+.mask-group-icon12 {
+  position: absolute;
+  top: 1343px;
+  left: 965px;
+  width: 373px;
+  height: 345px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.mask-group-icon11,
+.mask-group-icon12 {
+  left: 533px;
+}
+.mask-group-icon12 {
+  top: 1747px;
+  left: 244px;
+  height: 329px;
+}
+.desktop-888-child23 {
+  position: absolute;
+  top: 11616px;
+  left: -24px;
+  background-color: var(--color-steelblue-300);
+  width: 1564px;
+  height: 446px;
+}
+.yuuuu-11-icon1 {
+  position: absolute;
+  top: 11650px;
+  left: 1095px;
+  width: 243px;
+  height: 138px;
+  object-fit: cover;
+}
+.information3,
+.nos-services4,
+.suivez-nous3 {
+  position: absolute;
+  top: 11643px;
+  left: 524px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  color: var(--color-white);
+  width: 160px;
+}
+.information3,
+.suivez-nous3 {
+  left: 815px;
+  width: 171px;
+}
+.suivez-nous3 {
+  top: 11819px;
+  left: 1094px;
+  width: 163px;
+}
+.accueil6,
+.facture7,
+.liens-utiles3,
+.mentions-legal3,
+.nos-horaire3,
+.qui-somme-nous3 {
+  position: absolute;
+  top: 11698px;
+  left: 525px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  display: inline-block;
+  width: 82px;
+}
+.facture7,
+.liens-utiles3,
+.mentions-legal3,
+.nos-horaire3,
+.qui-somme-nous3 {
+  left: 816px;
+  width: 165px;
+}
+.facture7,
+.liens-utiles3,
+.nos-horaire3,
+.qui-somme-nous3 {
+  top: 11782px;
+  width: 159px;
+}
+.facture7,
+.liens-utiles3,
+.nos-horaire3 {
+  top: 11824px;
+}
+.facture7,
+.nos-horaire3 {
+  top: 11740px;
+  width: 296px;
+}
+.facture7 {
+  left: 525px;
+  width: 84px;
+}
+.desktop-888-child24,
+.desktop-888-child25,
+.desktop-888-child26 {
+  position: absolute;
+  top: 11647.5px;
+  left: 505.5px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 323px;
+}
+.desktop-888-child25,
+.desktop-888-child26 {
+  left: 796.5px;
+}
+.desktop-888-child26 {
+  top: 11649.5px;
+  left: 1075.5px;
+}
+.abonnement6,
+.compteur6,
+.dpannage3 {
+  position: absolute;
+  top: 11825px;
+  left: 525px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  display: inline-block;
+  width: 144px;
+}
+.compteur6,
+.dpannage3 {
+  top: 11782px;
+  width: 109px;
+}
+.dpannage3 {
+  top: 11867px;
+  width: 124px;
+}
+.lenergie3,
+.service6 {
+  left: 524px;
+  width: 104px;
+}
+.service6 {
+  position: absolute;
+  top: 11909px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  display: inline-block;
+}
+.lenergie3 {
+  top: 11951px;
+}
+.apropos5,
+.div10,
+.dpscstegcomtn80-tunis3,
+.lenergie3,
+.rue-kamel-ataturk3,
+.steg-service-container3 {
+  position: absolute;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  display: inline-block;
+}
+.dpscstegcomtn80-tunis3 {
+  top: 11824px;
+  left: 102px;
+  text-decoration: underline;
+  width: 267px;
+}
+.apropos5,
+.div10,
+.rue-kamel-ataturk3,
+.steg-service-container3 {
+  top: 11867px;
+  left: 101px;
+  width: 331px;
+}
+.apropos5,
+.div10,
+.steg-service-container3 {
+  top: 11905px;
+  font-size: var(--font-size-3xl);
+  width: 195px;
+}
+.apropos5,
+.steg-service-container3 {
+  top: 11697px;
+  left: 102px;
+  font-size: var(--font-size-lg);
+  width: 420px;
+}
+.apropos5 {
+  top: 11643px;
+  font-size: var(--font-size-6xl);
+  width: 114px;
+}
+.ig-19-icon1,
+.ig-20-icon1,
+.tw-10-icon1,
+.yt-10-icon1 {
+  position: absolute;
+  top: 11878px;
+  left: 1095px;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.ig-20-icon1,
+.tw-10-icon1,
+.yt-10-icon1 {
+  left: 1161px;
+}
+.ig-20-icon1,
+.yt-10-icon1 {
+  left: 1227px;
+}
+.yt-10-icon1 {
+  top: 11879px;
+  left: 1293px;
+}
+.copyright-steg-service3 {
+  position: absolute;
+  top: 12010px;
+  left: 609px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.c6-1-icon {
+  position: absolute;
+  top: 210px;
+  left: 0;
+  width: 1501px;
+  height: 950px;
+  object-fit: cover;
+}
+.abonnement7,
+.accueil7,
+.facture8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 82px;
+  height: 31.66px;
+}
+.abonnement7,
+.facture8 {
+  left: 124px;
+  width: 109px;
+  height: 32px;
+}
+.abonnement7 {
+  top: 2px;
+  left: 248px;
+  font-size: var(--font-size-3xl);
+  width: 144px;
+  height: 31.66px;
+}
+.branchements3,
+.compteur7,
+.lnergie3,
+.paiement3,
+.service7 {
+  position: absolute;
+  top: 0;
+  left: 687px;
+  display: inline-block;
+  width: 109px;
+  height: 31.66px;
+}
+.branchements3,
+.lnergie3,
+.paiement3,
+.service7 {
+  left: 564px;
+  width: 124px;
+}
+.branchements3,
+.lnergie3,
+.paiement3 {
+  left: 420px;
+}
+.branchements3,
+.lnergie3 {
+  left: 1037px;
+  width: 104px;
+}
+.branchements3 {
+  left: 837px;
+  color: var(--color-red);
+  width: 162px;
+  height: 32px;
+}
+.group-div {
+  position: absolute;
+  top: 150px;
+  left: 150px;
+  width: 1141px;
+  height: 33.66px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inika);
+}
+.facture5 {
+    
+  color: var(--color-red);
+
+}
+.desktop-888-child27 {
+  position: absolute;
+  top: 193.5px;
+  left: 988.5px;
+  border-top: 1px solid var(--color-red);
+  box-sizing: border-box;
+  width: 159px;
+  height: 1px;
+}
+.desktop-888-child28,
+.desktop-888-child29 {
+  position: absolute;
+  top: 147.5px;
+  
+  border-top: 3px solid var(--color-steelblue-100);
+  box-sizing: border-box;
+  width: 1541px;
+  height: 3px;
+}
+.desktop-888-child29 {
+  top: 211.5px;
+}
+.mdiaccount-icon3,
+.streamlineinterface-favorite-icon3 {
+  position: absolute;
+  top: 63px;
+  left: 1224px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.mdiaccount-icon3 {
+  top: 61px;
+  left: 1261px;
+  width: 33px;
+  height: 33px;
+}
+.rechercher3 {
+  position: absolute;
+  top: 65px;
+  left: 957px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inika);
+  color: var(--color-gainsboro);
+  display: inline-block;
+  width: 130px;
+  height: 21px;
+}
+.desktop-888-child30 {
+  position: absolute;
+  top: 63px;
+  left: 1180px;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-steelblue-100);
+  box-sizing: border-box;
+  width: 29px;
+  height: 25px;
+}
+.fr3 {
+  position: absolute;
+  top: 64px;
+  left: 1185px;
+  font-size: var(--font-size-mid);
+  font-family: var(--font-inika);
+  color: var(--color-steelblue-100);
+  display: inline-block;
+  width: 47px;
+  height: 51px;
+}
+.desktop-888-child31 {
+  position: absolute;
+  top: 57.5px;
+  left: 1172.5px;
+  border-right: 1px solid var(--color-red);
+  box-sizing: border-box;
+  width: 1px;
+  height: 38px;
+}
+.desktop-888-child32,
+.desktop-888-child33,
+.desktop-888-child34,
+.desktop-888-child35,
+.desktop-888-child36,
+.desktop-888-child37 {
+  position: absolute;
+  top: 57.5px;
+  left: 936.5px;
+  border-right: 1px solid var(--color-red);
+  box-sizing: border-box;
+  width: 1px;
+  height: 38px;
+}
+.desktop-888-child33,
+.desktop-888-child34,
+.desktop-888-child35,
+.desktop-888-child36,
+.desktop-888-child37 {
+  left: 901.5px;
+}
+.desktop-888-child34,
+.desktop-888-child35,
+.desktop-888-child36,
+.desktop-888-child37 {
+  left: 1216.5px;
+}
+.desktop-888-child35,
+.desktop-888-child36,
+.desktop-888-child37 {
+  left: 1259.5px;
+}
+.desktop-888-child36,
+.desktop-888-child37 {
+  left: 1291.5px;
+}
+.desktop-888-child37 {
+  left: 1336.5px;
+}
+.icround-search-icon3 {
+  position: absolute;
+  top: 59px;
+  left: 906px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.la-steg-hier3 {
+  position: absolute;
+  top: 51.7px;
+  left: 225px;
+  font-size: var(--font-size-16xl);
+  letter-spacing: 0.01em;
+  font-family: var(--font-dm-serif-text);
+  color: var(--color-steelblue-100);
+  display: inline-block;
+  width: 714.97px;
+  height: 74.17px;
+  transform: rotate(-0.06deg);
+  transform-origin: 0 0;
+}
+.fontistotoggle-on-icon3 {
+  position: absolute;
+  top: 61px;
+  left: 1299px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.ujiyyy-3-icon3 {
+  position: absolute;
+  top: 30px;
+  left: 103px;
+  width: 106px;
+  height: 106px;
+  object-fit: cover;
+}
+.desktop-888-child38,
+.desktop-888-child39 {
+  position: absolute;
+  top: 3605px;
+  left: 102px;
+  background-color: var(--color-crimson-100);
+  width: 1040px;
+  height: 75px;
+}
+.desktop-888-child39 {
+  top: 3720px;
+  background-color: var(--color-powderblue-100);
+  width: 1236px;
+  height: 371px;
+}
+.c3333-16-icon1 {
+  position: absolute;
+  top: 3922px;
+  left: 102px;
+  width: 56px;
+  height: 43.71px;
+  object-fit: cover;
+}
+.vous-pouvez-relever-container {
+  position: absolute;
+  top: 3572px;
+  left: 21px;
+  white-space: pre-wrap;
+}
+.a-dfaut-de1 {
+  position: absolute;
+  top: 3925px;
+  left: 178px;
+}
+.a-dfaut-de2,
+.vous-tes-appels-container {
+  position: absolute;
+  top: 3995px;
+  left: 102px;
+}
+.a-dfaut-de2 {
+  top: 3612px;
+  left: 122px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+}
+.material-symbolsarrow-circle-icon7,
+.material-symbolsarrow-circle-icon8 {
+  position: absolute;
+  top: 4021px;
+  left: 1267px;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.material-symbolsarrow-circle-icon8 {
+  top: 6258px;
+}
+.material-symbolsarrow-circle-icon10,
+.material-symbolsarrow-circle-icon11,
+.material-symbolsarrow-circle-icon9 {
+  position: absolute;
+  top: 7856px;
+  left: 1267px;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.material-symbolsarrow-circle-icon10,
+.material-symbolsarrow-circle-icon11 {
+  top: 9962px;
+}
+.material-symbolsarrow-circle-icon11 {
+  top: 11477px;
+}
+.desktop-888-child40 {
+  position: absolute;
+  top: 11416px;
+  left: 102px;
+  background-color: var(--color-gainsboro);
+  width: 1px;
+  height: 55px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.desktop-888-child41,
+.desktop-888-child42,
+.desktop-888-child43 {
+  position: absolute;
+  top: 10871px;
+  left: 102px;
+  background-color: var(--color-gainsboro);
+  width: 20px;
+  height: 55px;
+}
+.desktop-888-child42,
+.desktop-888-child43 {
+  top: 10898px;
+  left: 1200px;
+}
+.desktop-888-child43 {
+  top: 8264px;
+  left: 154px;
+}
+.desktop-888 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 12062px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
